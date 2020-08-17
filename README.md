@@ -1,8 +1,8 @@
 # 10-Time-Series
 
 #### Unit 10 Time-Series Homework - Dan Smith
-* Time Series Analysis: ./time_series_analysis.ipynb
-* Regression Analysis: ./regression_analysis.ipynb
+* Time Series Analysis: [./time_series_analysis.ipynb](./time_series_analysis.ipynb)
+* Regression Analysis: [./regression_analysis.ipynb](./regression_analysis.ipynb)
 
 
 ##### Summary: Time-Series Analysis
